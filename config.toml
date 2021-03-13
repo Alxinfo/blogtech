@@ -1,8 +1,8 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://example.com/"
-DefaultContentLanguage  = "en"
-title                   = "Hugo Future Imperfect Slim"
+baseurl                 = "https://alexandre.carbonnier.xyz"
+DefaultContentLanguage  = "fr"
+title                   = "Another tech blog"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = ""
@@ -55,7 +55,7 @@ disableLanguages        = []
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/logo.jpg"
+      src                 = "img/main/logo.png"
       shape               = "circle"
       width               = ""
       alt                 = "Hugo Future Imperfect Slim"
@@ -333,11 +333,6 @@ disableLanguages        = []
   bitbucket             = ""
   jsfiddle              = ""
   codepen               = ""
-  # Visual Art Communities
-  deviantart            = ""
-  flickr                = "example"
-  behance               = ""
-  dribbble              = ""
   # Publishing Communities
   wordpress             = ""
   medium                = ""
