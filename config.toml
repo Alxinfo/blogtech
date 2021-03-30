@@ -1,6 +1,6 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://alexandre.carbonnier.xyz"
+baseurl                 = "alexandre.carbonnier.xyz"
 DefaultContentLanguage  = "fr"
 title                   = "Another tech blog"
 theme                   = "hugo-future-imperfect-slim"
@@ -120,12 +120,12 @@ disableLanguages        = []
     pre               = "<i class='fas fa-sitemap'></i>"
     weight            = 5
 
-  [[menu.main]]
-    name              = "Contact"
-    identifier        = "contact"
-    url               = "/contact/"
-    pre               = "<i class='far fa-envelope'></i>"
-    weight            = 6
+  #[[menu.main]]
+  # name              = "Contact"
+  # identifier        = "contact"
+  # url               = "/contact/"
+  # pre               = "<i class='far fa-envelope'></i>"
+  # weight            = 6
 
 [Languages]
 
@@ -137,7 +137,7 @@ disableLanguages        = []
   [Languages.fr]
     LanguageCode        = "fr"
     LanguageName        = "Français"
-    title               = "Hugo Future Imperfect Slim en français"
+    title               = "Another tech blog"
     description         = "Un thème par HTML5 UP, porté par Julio Pescador. Simplifié et amélioré par Patrick Collins. Multilingue par StatnMap. Propulsé par Hugo."
     weight              = 2
 
@@ -162,12 +162,12 @@ disableLanguages        = []
       pre               = "<i class='far fa-newspaper'></i>"
       weight            = 3
 
-    [[Languages.fr.menu.main]]
-      name              = "Catégories"
-      identifier        = "categories"
-      url               = "/categories/"
-      pre               = "<i class='fas fa-sitemap'></i>"
-      weight            = 5
+    #[[Languages.fr.menu.main]]
+    # name              = "Catégories"
+    # identifier        = "categories"
+    # url               = "/categories/"
+    # pre               = "<i class='fas fa-sitemap'></i>"
+    # weight            = 5
 
     [[Languages.fr.menu.main]]
       name              = "Contact"
@@ -327,7 +327,7 @@ disableLanguages        = []
 
 [social]
   # Coding Communities
-  github                = "pacollins/hugo-future-imperfect-slim"
+  github                = "Alxinfo"
   gitlab                = ""
   stackoverflow         = "" # User Number
   bitbucket             = ""
@@ -337,35 +337,18 @@ disableLanguages        = []
   wordpress             = ""
   medium                = ""
   # Professional/Business Oriented Communities
-  linkedin              = "example"
-  linkedin_company      = "examplebusiness"
+  linkedin              = "alexandre-carbonnier-ba361484"
+  linkedin_company      = "simplifi-ed"
   foursquare            = ""
   xing                  = ""
   slideshare            = ""
   # Social Networks
-  facebook              = "example"
-  googleplus            = ""
-  reddit                = "example"
-  quora                 = ""
-  youtube               = ""
-  vimeo                 = ""
-  whatsapp              = "" # WhatsApp Number
+  #facebook              = "example"
+  #quora                 = ""
+  #youtube               = ""
     # WeChat and QQ need testing.
     wechat              = ""
     qq                  = "" # User ID Number
-  instagram             = "example"
-  tumblr                = ""
-  twitter               = "example"
-  strava                = ""
-  skype                 = ""
-  snapchat              = ""
-  pinterest             = "example"
-  telegram              = "example"
-  vine                  = ""
-  googlescholar         = ""
-  orcid                 = ""
-  researchgate          = "example"
-  keybase               = "example"
-  mastodon              = "example.com/@example"
+  twitter               = "AlexandreCarbo4"
   # Email
-  email                 = "example"
+  #email                 = "example"

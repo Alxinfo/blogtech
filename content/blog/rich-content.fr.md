@@ -1,12 +1,12 @@
 +++
-title = "Contenu riche"
-description = "Une brève description de Hugo Shortcodes"
-author = "Hugo Auteurs"
-date = "2019-03-10"
+title = "Git pour les nuls "
+description = "Premier post traitant de Git, présentation, commande de base, etc..."
+author = "Alexandre Carbonnier"
+date = "2021-03-16"
 tags = ["shortcodes", "privacy"]
 [[images]]
-  src = "img/main/logo.png"
-  alt = "Fox"
+  src = "img/git.png"
+  alt = "Git"
   stretch = "Vertical"
 +++
 
